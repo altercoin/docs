@@ -8,4 +8,4 @@ Simple steps to get started:
 * Choose the mining pool from [**here**](https://miningpoolstats.stream/altercoin)
 * Config your miner as:\
   \
-  \-a scrypt -o stratum+tcp://MiningPollAddress:0000 -u YourWalletAddress -p c=ALTER
+  _-a scrypt -o stratum+tcp://MiningPollAddress:0000 -u YourWalletAddress -p c=ALTER_
